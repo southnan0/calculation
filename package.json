@@ -1,6 +1,6 @@
 {
   "name": "s_calculation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "calculation method add sub div mul",
   "main": "index.js",
   "scripts": {
